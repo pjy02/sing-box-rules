@@ -15,7 +15,7 @@ https://github.com/lyc8503/sing-box-rules/releases/latest/download/geosite.db
 
 较新版本 sing-box 使用的 srs 文件在以下分支中:
 
-https://github.com/lyc8503/sing-box-rules/tree/rule-set-geoip
+https://github.com/pjy02/sing-box-rules/tree/rule-set-geoip
 
-https://github.com/lyc8503/sing-box-rules/tree/rule-set-geosite
+https://github.com/pjy02/sing-box-rules/tree/rule-set-geosite
 
