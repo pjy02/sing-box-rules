@@ -1,5 +1,5 @@
 # sing-box-rules
-sing-box Geoip 与 Geosite 增强版规则, 移植自 https://github.com/Loyalsoldier/v2ray-rules-dat
+sing-box Geoip 与 Geosite 增强版规则, 移植自 https://github.com/pjy02/v2ray-rules-dat
 
 GitHub Actions 每日自动更新, 同步上游.
 
